@@ -1,3 +1,6 @@
+## Ховбень Сергій
+### Note: for the correct operation, the project must be run from the Open Server environment.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
